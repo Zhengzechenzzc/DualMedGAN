@@ -1,0 +1,2 @@
+# DualMedGAN
+GAN
